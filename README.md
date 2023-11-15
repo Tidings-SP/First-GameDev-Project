@@ -14,10 +14,12 @@ Basic Controls:-
 ***
 
 # The player contains three simple state
+![state](https://github.com/Tidings-SP/First-GameDev-Project/assets/76809211/d5fae723-f60f-4d82-9139-4a76b3647667)
 
-![](https://github.com/Tidings-SP/First-GameDev-Project/blob/main/TempFiles/state.PNG)
+
 
 # Our enemy got a homing missile which follows the player with simple math!
+![follow](https://github.com/Tidings-SP/First-GameDev-Project/assets/76809211/e8354f84-c58d-48e8-a832-185fb9a25ed4)
 
-![](https://github.com/Tidings-SP/First-GameDev-Project/blob/main/TempFiles/follow.PNG)
+
 
